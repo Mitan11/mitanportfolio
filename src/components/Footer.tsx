@@ -24,7 +24,7 @@ function Footer() {
                     Reach out to me today and let&apos;s discuss how I can help you achieve your goals
                 </p>
                 <div className='flex flex-col md:flex-row gap-4 mt-6 md:mt-8'>
-                    <a href="mailto:mitantank00@gmail.com?subject=Let's Connect" target="_blank" rel="noopener noreferrer">
+                    <a href="mailto:mitantank00@gmail.com?subject=Let's Connect" rel="noopener noreferrer">
                         <MagicButton 
                             title="Send Email" 
                             icon={<FaLocationArrow />} 
