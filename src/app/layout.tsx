@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mitan Tank | Full Stack Developer Portfolio",
+  title: "Mitan Tank | Full Stack Web Developer",
   description: "Full Stack Developer specializing in React, Next.js, and modern web technologies. View my projects, skills, and get in touch for collaboration opportunities.",
   keywords: "Full Stack Developer, React Developer, Next.js, Web Development, Portfolio, Mitan Tank",
   authors: [{ name: "Mitan Tank" }],
