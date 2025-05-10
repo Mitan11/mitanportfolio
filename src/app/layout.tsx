@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://mitantank.vercel.app",
+    url: "https://mitanportfolio.vercel.app/",
     title: "Mitan Tank | Full Stack Developer Portfolio",
     description: "Full Stack Developer specializing in React, Next.js, and modern web technologies. View my projects, skills, and get in touch for collaboration opportunities.",
     siteName: "Mitan Tank Portfolio",
@@ -49,10 +49,9 @@ export const metadata: Metadata = {
   icons: {
     icon: '/favicon.ico',
     shortcut: '/favicon.ico',
-    apple: '/apple-touch-icon.png',
   },
   verification: {
-    google: 'your-google-site-verification', // Add your Google Search Console verification code
+    google: '8fnLGkdVtcMdIb5oAcjpEgK1yyYUxpEHdzXOSMtRqyQ',
   },
 };
 
