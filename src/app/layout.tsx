@@ -46,10 +46,7 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
-  },
+
   verification: {
     google: '8fnLGkdVtcMdIb5oAcjpEgK1yyYUxpEHdzXOSMtRqyQ',
   },
@@ -64,7 +61,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <meta name="google-site-verification" content="8fnLGkdVtcMdIb5oAcjpEgK1yyYUxpEHdzXOSMtRqyQ" />
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
