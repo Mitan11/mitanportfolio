@@ -15,26 +15,33 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mitan Tank | Full Stack Web Developer",
-  description: "Full Stack Developer specializing in React, Next.js, and modern web technologies. View my projects, skills, and get in touch for collaboration opportunities.",
-  keywords: "Full Stack Developer, React Developer, Next.js, Web Development, Portfolio, Mitan Tank",
+  title: "Mitan Tank | Full Stack & Frontend Web Developer | Freelancer Portfolio",
+  description:
+    "Explore the portfolio of Mitan Tank – a Full Stack & Frontend Developer specializing in React, Next.js, JavaScript, and modern web development. Available for freelance projects and collaborations.",
+  keywords:
+    "Mitan, Mitan Tank, Mitan Portfolio, Mitan Tank Portfolio, Freelancer, Freelance Developer, Frontend Developer, Full Stack Developer, React Developer, Next.js Developer, JavaScript Developer, Portfolio Website, Web Developer India, Remote Web Developer, UI/UX Developer, Software Engineer, HTML CSS JavaScript, TypeScript Developer, Tailwind CSS, GitHub Projects, SEO-Friendly Portfolio, Responsive Web Design, Modern Web Apps, Hire Developer Online",
   authors: [{ name: "Mitan Tank" }],
   creator: "Mitan Tank",
   publisher: "Mitan Tank",
+
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://mitanportfolio.vercel.app/",
-    title: "Mitan Tank | Full Stack Developer Portfolio",
-    description: "Full Stack Developer specializing in React, Next.js, and modern web technologies. View my projects, skills, and get in touch for collaboration opportunities.",
+    title: "Mitan Tank | Full Stack & Frontend Developer | Freelancer Portfolio",
+    description:
+      "Discover the work of Mitan Tank, expert in full stack and frontend development using React, Next.js, and modern web tech. Browse projects or hire for freelance work.",
     siteName: "Mitan Tank Portfolio",
   },
+
   twitter: {
     card: "summary_large_image",
-    title: "Mitan Tank | Full Stack Developer Portfolio",
-    description: "Full Stack Developer specializing in React, Next.js, and modern web technologies. View my projects, skills, and get in touch for collaboration opportunities.",
+    title: "Mitan Tank | Full Stack & Frontend Web Developer",
+    description:
+      "Hire Mitan Tank – Full Stack & Frontend Developer skilled in React, Next.js, JavaScript, and responsive web development. Explore portfolio projects and contact today.",
     creator: "@mitantank",
   },
+
   robots: {
     index: true,
     follow: true,
@@ -51,6 +58,7 @@ export const metadata: Metadata = {
     google: '8fnLGkdVtcMdIb5oAcjpEgK1yyYUxpEHdzXOSMtRqyQ',
   },
 };
+
 
 export default function RootLayout({
   children,

@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import { IoCopyOutline } from "react-icons/io5";
+import { IoDownloadOutline } from "react-icons/io5";
 import dynamic from 'next/dynamic';
 import { IconCloud } from './icon-cloud';
 
@@ -162,6 +163,19 @@ export const BentoGridItem = ({
                     {id === 3 && (
                         <div className="flex justify-center items-center w-full h-full mt-4">
                             <IconCloud images={techStackImages} />
+                        </div>
+                    )}
+
+                    {/* Download CV button for career objective section */}
+                    {id === 5 && (
+                        <div className="mt-5 relative">
+                            <MagicButton
+                                title="Download CV"
+                                icon={<IoDownloadOutline />}
+                                position="left"
+                                handleClick={() => window.open('/Mitan Tank Resume.pdf', '_blank')}
+                                otherClasses="!bg-[#161A31]"
+                            />
                         </div>
                     )}
 
