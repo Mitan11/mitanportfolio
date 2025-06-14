@@ -195,6 +195,58 @@ export const projects = [
         git: ""
     },
     {
+        id: 6,
+        title: "Real-Time Chat App",
+        des: "A feature-rich real-time chat application built with the MERN stack and Socket.IO. Users can chat, share images, update profile pictures, toggle between 10+ themes, and see online/offline status — all in a smooth and responsive interface.",
+        img: "/Real-Time Chat App.png",
+        iconLists: [
+            {
+                id: 1,
+                name: "React.js",
+                designation: "Frontend Library",
+                image: "/re.svg"
+            },
+            {
+                id: 2,
+                name: "Node.js",
+                designation: "Backend Runtime",
+                image: "/Node.js.svg"
+            },
+            {
+                id: 3,
+                name: "Express.js",
+                designation: "Backend Framework",
+                image: "/Express.svg"
+            },
+            {
+                id: 4,
+                name: "MongoDB",
+                designation: "NoSQL Database",
+                image: "/MongoDB.svg"
+            },
+            {
+                id: 5,
+                name: "Socket.IO",
+                designation: "Real-Time Communication",
+                image: "/Socket.io.svg"
+            },
+            {
+                id: 6,
+                name: "TailwindCSS",
+                designation: "CSS Utility Framework",
+                image: "/tail.svg"
+            },
+            {
+                id: 7,
+                name: "JWT",
+                designation: "Authentication",
+                image: "/icons8-jwt.svg"
+            }
+        ],
+        link: "",
+        git: "https://github.com/Mitan11/chatApp.git"
+    },
+    {
         id: 4,
         title: "KoiRide",
         des: "Redesigned Koiride, an airport transfer service, enhancing its overall look and adding two new features: 'Become a Partner' and 'Become a Supplier,' to expand collaboration and supply chain integration.",
