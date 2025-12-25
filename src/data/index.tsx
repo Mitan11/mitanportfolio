@@ -243,7 +243,7 @@ export const projects = [
                 image: "/icons8-jwt.svg"
             }
         ],
-        link: "",
+        link: "https://chat-app-pi-one-39.vercel.app/login",
         git: "https://github.com/Mitan11/chatApp.git"
     },
     {
