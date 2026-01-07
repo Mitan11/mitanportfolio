@@ -329,7 +329,7 @@ export const projects = [
                 image: "/SQLite.svg"
             },
         ],
-        link: "",
+        link: "https://school-management-system.page.gd/index.php",
         git: "https://github.com/Mitan11/School-Management-System"
     },
     {
