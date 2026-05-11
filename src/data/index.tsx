@@ -25,7 +25,7 @@ export const socialLinks = [
                 ></path>
             </svg>
         ),
-        className: "text-white hover:text-purple transition-colors"
+        className: "dark:text-white text-black hover:text-purple transition-colors"
     },
     {
         id: 2,
@@ -39,7 +39,7 @@ export const socialLinks = [
                 />
             </svg>
         ),
-        className: "text-white hover:text-purple transition-colors"
+        className: "dark:text-white text-black hover:text-purple transition-colors"
     },
     {
         id: 3,
@@ -53,7 +53,7 @@ export const socialLinks = [
                 />
             </svg>
         ),
-        className: "text-white hover:text-purple transition-colors"
+        className: "dark:text-white text-black hover:text-purple transition-colors"
     },
     {
         id: 4,
@@ -67,7 +67,7 @@ export const socialLinks = [
                 />
             </svg>
         ),
-        className: "text-white hover:text-purple transition-colors"
+        className: "dark:text-white text-black hover:text-purple transition-colors"
     }
 ];
 
@@ -243,7 +243,7 @@ export const projects = [
                 image: "/icons8-jwt.svg"
             }
         ],
-        link: "",
+        link: "https://chat-app-pi-one-39.vercel.app/login",
         git: "https://github.com/Mitan11/chatApp.git"
     },
     {

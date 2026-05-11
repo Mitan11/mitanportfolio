@@ -42,7 +42,7 @@ function RecentProjects() {
                                         />
                                     </div>
 
-                                    <h1 className="font-bold text-lg md:text-xl lg:text-2xl line-clamp-1 mb-2">
+                                    <h1 className="font-bold text-white text-lg md:text-xl lg:text-2xl line-clamp-1 mb-2">
                                         {item.title}
                                     </h1>
 

@@ -2,13 +2,8 @@
 import { useEffect, useState } from "react";
 import { IoCopyOutline } from "react-icons/io5";
 import { IoDownloadOutline } from "react-icons/io5";
-import dynamic from 'next/dynamic';
 import { IconCloud } from './icon-cloud';
-
-// Dynamically import Lottie with no SSR
-const Lottie = dynamic(() => import('react-lottie'), {
-    ssr: false
-});
+import Lottie from 'lottie-react';
 
 import { cn } from "@/lib/utils";
 
@@ -84,15 +79,6 @@ export const BentoGridItem = ({
 
     const [copied, setCopied] = useState(false);
 
-    const defaultOptions = {
-        loop: copied,
-        autoplay: copied,
-        animationData: animationData,
-        rendererSettings: {
-            preserveAspectRatio: "xMidYMid slice",
-        },
-    };
-
     const handleCopy = () => {
         const text = "mitantank00@gmail.com";
         navigator.clipboard.writeText(text);
@@ -147,11 +133,11 @@ export const BentoGridItem = ({
                         "group-hover/bento:translate-x-2 transition duration-200 relative md:h-full min-h-40 flex flex-col px-5 p-5 lg:p-10"
                     )}
                 >
-                    <div className="font-sans font-semibold md:max-w-52 md:text-xs lg:text-base text-sm z-10">
+                    <div className="font-sans font-semibold md:max-w-52 md:text-xs lg:text-base text-white text-whitetext-sm z-10">
                         {description}
                     </div>
                     <div
-                        className={`font-sans text-lg lg:text-3xl max-w-96 font-bold z-10`}
+                        className={`font-sans text-lg lg:text-3xl max-w-96 font-bold z-10 text-white`}
                     >
                         {title}
                     </div>
@@ -184,8 +170,14 @@ export const BentoGridItem = ({
                             <div
                                 className={`absolute -bottom-5 right-0 ${copied ? "block" : "block"
                                     }`}
+                                style={{ height: '200px', width: '400px' }}
                             >
-                                <Lottie options={defaultOptions} height={200} width={400} />
+                                <Lottie
+                                    animationData={animationData}
+                                    loop={copied}
+                                    autoplay={copied}
+                                    style={{ height: '100%', width: '100%' }}
+                                />
                             </div>
 
                             <MagicButton
