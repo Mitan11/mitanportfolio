@@ -1,0 +1,487 @@
+{
+  "timestamp": "2026-08-01T14:00:46.563Z",
+  "data": {
+    "users": [
+      {
+        "_id": "6a6ca7fa63b5267c2f898c72",
+        "name": "mitan",
+        "email": "mitan@admin.com",
+        "password": "$2b$10$8P8aEcQkeOItwyuaATvdxeOcwcfRcmwgV3Jbzh2kL8YkdJL3wJ3hu",
+        "isAdmin": true,
+        "createdAt": "2026-07-31T13:49:46.582Z",
+        "updatedAt": "2026-07-31T13:49:46.582Z",
+        "__v": 0
+      }
+    ],
+    "certifications": [
+      {
+        "_id": "6a6cdbdb23222ab395d5301a",
+        "title": "MERN Stack Certified Developer",
+        "organization": "Red&White Multimedia Education",
+        "description": "Comprehensive certification covering MongoDB, Express.js, React, and Node.js.",
+        "order": 1,
+        "__v": 0,
+        "updatedAt": "2026-08-01T09:08:30.863Z"
+      }
+    ],
+    "experiences": [
+      {
+        "_id": "6a6cdbdb23222ab395d53016",
+        "role": "Brilliant Computer Education",
+        "company": " C Language Instructor",
+        "period": "July 2022 - June 2023",
+        "description": "Conducted structured training in C programming and MySQL focusing on fundamental programming concepts using a hands-on approach.,\nExplained complex programming concepts (arrays-strings-pointers) using practical examples and visual aids to improve student understanding.,\nMentored students in developing programming fundamentals and problem-solving skills.",
+        "skills": [
+          "React",
+          "Node.js",
+          "Expres",
+          "MongoDB",
+          "AWS",
+          "C",
+          "MySQL"
+        ],
+        "order": 1,
+        "__v": 0,
+        "updatedAt": "2026-08-01T09:39:13.000Z"
+      }
+    ],
+    "expertises": [
+      {
+        "_id": "6a6cdbdb23222ab395d53012",
+        "expertiseId": "01",
+        "title": "Frontend Development",
+        "text": "Crafting responsive and interactive user interfaces using React, Next.js, JavaScript, Tailwind CSS.",
+        "order": 1,
+        "__v": 0
+      },
+      {
+        "_id": "6a6cdbdb23222ab395d53013",
+        "expertiseId": "02",
+        "title": "Backend Development",
+        "text": "Building secure REST APIs, authentication systems, server-side applications, and database integrations.",
+        "order": 2,
+        "__v": 0
+      },
+      {
+        "_id": "6a6cdbdb23222ab395d53014",
+        "expertiseId": "03",
+        "title": "AI Tools",
+        "text": "Leveraging state-of-the-art AI assistants and generative tools.",
+        "order": 3,
+        "__v": 0
+      },
+      {
+        "_id": "6a6cdbdb23222ab395d53015",
+        "expertiseId": "04",
+        "title": "Cloud & Deployment",
+        "text": "Deploying and managing applications using Docker, Render, and Vercel.",
+        "order": 4,
+        "__v": 0,
+        "updatedAt": "2026-08-01T09:24:22.552Z"
+      }
+    ],
+    "generalSettings": [
+      {
+        "navbar": {
+          "links": [],
+          "resumeLink": "https://drive.google.com/file/d/1XJUZixsKYacAhid1zfvRzJG-plAQR4Nj/view?usp=sharing"
+        },
+        "hero": {
+          "heading": "Full Stack Developer",
+          "subheading": "I build fast, scalable and modern web applications using React, Next.js, Node.js, and Tailwind CSS with the assist of AI.",
+          "primaryButtonText": "View My Work",
+          "primaryButtonLink": "#projects",
+          "secondaryButtonText": "Contact Me",
+          "secondaryButtonLink": "#contact"
+        },
+        "about": {
+          "title": "Hello...!",
+          "name": "MITAN",
+          "description": "Full Stack Developer with experience building scalable web and mobile applications using React.js, Node.js, Express.js,\nMongoDB, Flutter, and MySQL. Skilled in developing RESTful APIs, implementing JWT authentication, integrating thirdparty services, and designing responsive user interfaces. Familiar with Bash and PowerShell scripting for task automation\nand development workflows. Passionate about building secure, user-centric applications and solving real-world problems."
+        },
+        "contact": {
+          "socials": {
+            "linkedin": "https://linkedin.com/in/mitantank",
+            "facebook": "https://facebook.com/mitan.tank.1",
+            "instagram": "https://instagram.com/__.mituu._/",
+            "github": "https://github.com/mitan11"
+          },
+          "heading": "Contact",
+          "formHeading": "Start a project",
+          "email": "mitantank00@gmail.com",
+          "location": "Ahmedabad, Gujarat, India"
+        },
+        "footer": {
+          "brandName": "MITAN TANK",
+          "tagline": "Crafting digital experiences with modern web technologies.",
+          "copyright": "© 2026 Mitan Tank. All rights reserved.",
+          "links": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/mitan11",
+              "_id": "6a6cdbdb23222ab395d5300f"
+            },
+            {
+              "name": "LinkedIn",
+              "url": "https://linkedin.com/in/mitantank",
+              "_id": "6a6cdbdb23222ab395d53010"
+            },
+            {
+              "name": "Twitter",
+              "url": "https://x.com/MITAN36892768",
+              "_id": "6a6cdbdb23222ab395d53011"
+            }
+          ]
+        },
+        "seo": {
+          "keywords": [
+            "Mitan Tank",
+            "Full Stack Developer",
+            "Frontend Developer",
+            "React Developer",
+            "Next.js Developer",
+            "MERN Stack Developer",
+            "Node.js Developer",
+            "JavaScript Developer",
+            "TypeScript Developer",
+            "Web Developer",
+            "Freelancer",
+            "Portfolio",
+            "Tailwind CSS",
+            "MongoDB",
+            "Express.js",
+            "Responsive Web Design",
+            "India"
+          ],
+          "title": "Mitan Tank | Full Stack Developer | React, Next.js & MERN Developer",
+          "openGraphTitle": "Mitan Tank | Full Stack Developer Portfolio",
+          "twitterTitle": "Mitan Tank | Full Stack Developer",
+          "description": "Explore the portfolio of Mitan Tank, a Full Stack Developer specializing in React, Next.js, Node.js, MERN Stack, and modern web technologies. Discover projects, technical expertise, and freelance services for building fast, scalable, and responsive web applications.",
+          "openGraphDescription": "Explore the portfolio of Mitan Tank featuring modern web applications, MERN Stack projects, React and Next.js development, UI/UX design, and full-stack solutions. Available for freelance projects and collaborations.",
+          "twitterDescription": "Full Stack Developer specializing in React, Next.js, Node.js, MERN Stack, and modern web applications. Explore my portfolio, projects, and freelance services."
+        },
+        "_id": "6a6cdbdb23222ab395d5300e",
+        "__v": 0,
+        "updatedAt": "2026-08-01T12:35:14.705Z"
+      }
+    ],
+    "projects": [
+      {
+        "_id": "6a6cdbdb23222ab395d5301b",
+        "title": "MIDAS Financial Group",
+        "subtitle": "Finance Consultant",
+        "description": "Designed and developed a modern, responsive corporate website for a financial consulting firm featuring service showcases, smooth animations, intuitive navigation, and a contact inquiry system. Built with HTML, CSS, JavaScript, and GSAP to deliver a professional and engaging user experience.",
+        "link": "https://mitan11.github.io/MIDAS-FINANCIAL-GROUP/",
+        "github": "https://github.com/Mitan11/MIDAS-FINANCIAL-GROUP",
+        "features": [
+          "Responsive Design",
+          "Modern UI/UX",
+          "Service Showcase",
+          "Contact Form",
+          "GSAP Animations",
+          "Mobile Friendly"
+        ],
+        "techStack": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "GSAP"
+        ],
+        "order": 1,
+        "__v": 0,
+        "updatedAt": "2026-08-01T10:32:55.379Z",
+        "image": "https://res.cloudinary.com/dsw5tkkyr/image/upload/v1785580153/portfolio_projects/au6r23lufc8mgibw5lzt.png"
+      },
+      {
+        "_id": "6a6dcd7f4b1cc85fa57aff55",
+        "title": "KFC Redesigned",
+        "subtitle": "KFC Website UI Redesign",
+        "description": "My first website built using HTML, CSS, and JavaScript, focusing on creating a modern redesign of the KFC website. Through this project, I gained hands-on experience with responsive layouts, interactive components, and front-end development fundamentals.",
+        "image": "https://res.cloudinary.com/dsw5tkkyr/image/upload/v1785580738/portfolio_projects/vlhbynpqso2xzyhjhw0m.png",
+        "link": "https://mitan11.github.io/KFC---New-Design/",
+        "github": "https://github.com/Mitan11/KFC---New-Design",
+        "features": [
+          "Smooth Scrolling",
+          "Hover Effects",
+          "Responsive Navigation Bar",
+          "Image Gallery",
+          "Optimized Layout"
+        ],
+        "techStack": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "order": 0,
+        "createdAt": "2026-08-01T10:42:07.412Z",
+        "updatedAt": "2026-08-01T10:42:07.412Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a6dcf444b1cc85fa57aff62",
+        "title": "Educational Management System",
+        "subtitle": "ERP",
+        "description": "A web-based application to streamline school activities with three user panels (Admin, Teacher, and Parent). Key features include attendance tracking, timetable scheduling, event galleries, materials/classwork/homework management, and fee payment processing.",
+        "image": "https://res.cloudinary.com/dsw5tkkyr/image/upload/v1785581308/portfolio_projects/pmhhrebsy8lfa6xlqpoy.png",
+        "link": "https://school-management-system.page.gd/index.php",
+        "github": "https://github.com/Mitan11/School-Management-System",
+        "features": [
+          "Role-Based Authentication",
+          "Admin, Teacher & Parent Portals",
+          "Student Attendance Management",
+          "Homework & Notes Management",
+          "Course & Subject Management",
+          "Timetable Scheduling",
+          "Online Fee Management",
+          "Event Gallery Management",
+          "User Account Management",
+          "Responsive Dashboard",
+          "Secure Login & Logout",
+          "MySQL Database Integration"
+        ],
+        "techStack": [
+          "HTML5",
+          "JavaScript",
+          "CSS3",
+          "Bootstrap",
+          "PHP",
+          "SQLite"
+        ],
+        "order": 2,
+        "createdAt": "2026-08-01T10:49:40.403Z",
+        "updatedAt": "2026-08-01T10:55:35.615Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a6dcfcb4b1cc85fa57aff63",
+        "title": "KoiRide",
+        "subtitle": "Koiride Website UI Redesign",
+        "description": "Redesigned Koiride, an airport transfer service, enhancing its overall look and adding two new features: 'Become a Partner' and 'Become a Supplier,' to expand collaboration and supply chain integration.",
+        "image": "https://res.cloudinary.com/dsw5tkkyr/image/upload/v1785581482/portfolio_projects/tma9tjyvnkapq3q8wyft.png",
+        "link": "https://mitan11.github.io/KoiRide_Re-Design/",
+        "github": "https://github.com/Mitan11/KoiRide_Re-Design",
+        "features": [
+          "Responsive Design",
+          "Modern UI/UX",
+          "Service Showcase",
+          "Contact Form",
+          "GSAP Animations",
+          "Mobile Friendly"
+        ],
+        "techStack": [
+          "HTML5",
+          "JavaScript",
+          "CSS3",
+          "Bootstrap",
+          "GSAP"
+        ],
+        "order": 0,
+        "createdAt": "2026-08-01T10:51:55.109Z",
+        "updatedAt": "2026-08-01T10:52:17.226Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a6dd0774b1cc85fa57aff67",
+        "title": "Real-Time Chat App",
+        "subtitle": "Chat App",
+        "description": "A feature-rich real-time chat application built with the MERN stack and Socket.IO. Users can chat, share images, update profile pictures, toggle between 10+ themes, and see online/offline status — all in a smooth and responsive interface.",
+        "image": "https://res.cloudinary.com/dsw5tkkyr/image/upload/v1785581601/portfolio_projects/teherymtiu0beodphgzv.png",
+        "link": "https://chat-app-pi-one-39.vercel.app/login",
+        "github": "https://github.com/Mitan11/chatApp.git",
+        "features": [
+          "Real-Time Messaging",
+          "Secure User Authentication (JWT)",
+          "One-to-One Chat",
+          "Profile Management",
+          "Online & Offline Status",
+          "Typing Indicators",
+          "Image Sharing",
+          "10+ Custom Chat Themes",
+          "Responsive User Interface",
+          "Socket.IO Real-Time Communication",
+          "Cloudinary Image Uploads",
+          "Persistent Chat History",
+          "Responsive Design"
+        ],
+        "techStack": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Socket.IO",
+          "TailwindCSS",
+          "JWT"
+        ],
+        "order": 1,
+        "createdAt": "2026-08-01T10:54:47.452Z",
+        "updatedAt": "2026-08-01T10:55:21.153Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a6dd1b34b1cc85fa57aff6e",
+        "title": "MERN Stack Healthcare Platform",
+        "subtitle": "Doctor Appointment System",
+        "description": "Developed a full-stack Doctor Appointment Booking System using the MERN stack, enabling patients to book appointments, doctors to manage schedules, and administrators to oversee the platform. Integrated secure JWT authentication, Stripe payment gateway, email notifications, appointment scheduling, and role-based dashboards to deliver a seamless healthcare management experience.",
+        "image": "https://res.cloudinary.com/dsw5tkkyr/image/upload/v1785582003/portfolio_projects/apd5o1ar6pfsgirlezca.png",
+        "link": "https://prescripto-one-theta.vercel.app/",
+        "github": "https://github.com/Mitan11/Prescripto",
+        "features": [
+          "Role-Based Authentication",
+          "Patient, Doctor & Admin Dashboards",
+          "Online Appointment Booking",
+          "Real-Time Doctor Availability",
+          "Stripe Payment Integration",
+          "JWT Secure Authentication",
+          "OTP Password Reset",
+          "Doctor Profile Management",
+          "Appointment Scheduling & Cancellation",
+          "Analytics Dashboard",
+          "Email Notifications",
+          "Review & Rating System",
+          "Cloudinary Image Upload",
+          "Responsive Mobile-Friendly Design"
+        ],
+        "techStack": [
+          "MongoDB",
+          "Express",
+          "React",
+          "Node.js",
+          "Tailwind CSS",
+          "Framer Motion",
+          "JWT",
+          "Stripe"
+        ],
+        "order": 0,
+        "createdAt": "2026-08-01T11:00:03.818Z",
+        "updatedAt": "2026-08-01T11:00:03.818Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a6dd4254b1cc85fa57aff78",
+        "title": "Sports Venue Booking & Social Platform",
+        "subtitle": "Sports Community & Venue Booking System",
+        "description": "Developed a full-stack sports social platform that enables users to discover sports venues, book slots, join games, connect with other players, and share posts within the community. The platform includes secure JWT authentication, Razorpay payment integration, venue management, analytics dashboards, Cloudinary image uploads, email notifications, and a scalable RESTful API built with Node.js, Express.js, and MySQL.",
+        "image": "https://res.cloudinary.com/dsw5tkkyr/image/upload/v1785582625/portfolio_projects/nsb19k53dobtktnnxqgk.png",
+        "link": "",
+        "github": "https://github.com/Mitan11/PlayMate-Frontend",
+        "features": [
+          "JWT Authentication",
+          "Sports Venue Booking",
+          "Slot Availability Management",
+          "Razorpay Payment Integration",
+          "User & Venue Dashboards",
+          "Sports & Skill Management",
+          "Game Creation & Player Requests",
+          "Social Posts & Likes",
+          "Cloudinary Image Uploads",
+          "Email Notifications & OTP",
+          "Venue Analytics Dashboard",
+          "Admin Analytics Dashboard",
+          "RESTful API Architecture",
+          "Responsive User Experience"
+        ],
+        "techStack": [
+          "Node.js",
+          "Express.js",
+          "MySQL",
+          "JWT",
+          "Razorpay",
+          "Cloudinary",
+          "Nodemailer",
+          "Swagger",
+          "Multer"
+        ],
+        "order": 0,
+        "createdAt": "2026-08-01T11:10:29.297Z",
+        "updatedAt": "2026-08-01T11:11:44.785Z",
+        "__v": 0
+      }
+    ],
+    "skills": [
+      {
+        "_id": "6a6cdbdb23222ab395d53018",
+        "category": "Frontend Development",
+        "description": "Building responsive, interactive user interfaces and web experiences.",
+        "skills": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "React",
+          "Next.js",
+          "TypeScript",
+          "Tailwind CSS",
+          "Bootstrap",
+          "MUI",
+          "Flutter"
+        ],
+        "bgColor": "bg-blue-50/60",
+        "borderColor": "border-blue-100",
+        "colSpan": "md:col-span-2 lg:col-span-2",
+        "__v": 0,
+        "updatedAt": "2026-08-01T10:07:58.255Z"
+      },
+      {
+        "_id": "6a6cdbdb23222ab395d53019",
+        "category": "Backend Architecture",
+        "description": "Developing robust APIs and scalable database architectures.",
+        "skills": [
+          "Node.js",
+          "Express.js",
+          "Python",
+          "REST APIs",
+          "JWT",
+          "MySQL",
+          "MongoDB",
+          "Firebase"
+        ],
+        "bgColor": "bg-pink-50/60",
+        "borderColor": "border-blue-100",
+        "colSpan": "md:col-span-2 lg:col-span-1",
+        "__v": 0,
+        "updatedAt": "2026-08-01T10:08:24.966Z"
+      },
+      {
+        "_id": "6a6dc5e6404e688a3adf294a",
+        "category": "AI Tools & Assistants",
+        "description": "Leveraging generative AI to accelerate development.",
+        "skills": [
+          "ChatGPT",
+          "Claude",
+          "GitHub Copilot",
+          "Cursor",
+          "Antigravity AI",
+          "Codex"
+        ],
+        "bgColor": "bg-green-50/60",
+        "borderColor": "border-green-100",
+        "colSpan": "md:col-span-2 lg:col-span-1",
+        "createdAt": "2026-08-01T10:09:42.228Z",
+        "updatedAt": "2026-08-01T10:10:49.650Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a6dc686404e688a3adf2954",
+        "category": "Cloud & Infrastructure",
+        "description": "Managing deployment, version control, and infrastructure.",
+        "skills": [
+          "Git",
+          "GitHub",
+          "Docker",
+          "Postman",
+          "Windows PowerShell",
+          "Linux",
+          "VS Code",
+          "AWS",
+          "Figma"
+        ],
+        "bgColor": "bg-yellow-50/60",
+        "borderColor": "border-yellow-100",
+        "colSpan": "md:col-span-3 lg:col-span-2",
+        "createdAt": "2026-08-01T10:12:22.108Z",
+        "updatedAt": "2026-08-01T10:33:35.189Z",
+        "__v": 0
+      }
+    ]
+  }
+}
