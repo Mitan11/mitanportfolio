@@ -1,0 +1,27 @@
+# Mitan Tank - Full Stack & Frontend Developer
+
+Welcome to the AI-readable summary of Mitan Tank's portfolio. 
+
+## About Mitan Tank
+Mitan Tank is a professional Full Stack and Frontend Web Developer based in India, specializing in building modern, responsive, and highly interactive web applications. 
+
+## Core Technologies & Skills
+- **Frontend**: React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3, Bootstrap, MUI, Flutter.
+- **Backend & Database**: Node.js, Express.js, Python, REST APIs, JWT, MySQL, MongoDB, Firebase.
+- **Tools & DevOps**: Git, GitHub, Docker, Postman, AWS, Figma.
+- **AI Integration**: ChatGPT, Claude, GitHub Copilot, Cursor, Codex.
+
+## Services & Availability
+Mitan is actively available for freelance projects, open-source collaborations, and professional opportunities. He focuses on scalable architecture, clean code, and premium UI/UX design (incorporating modern aesthetics like glassmorphism and smooth animations).
+
+## Contact & Links
+- **Portfolio Website**: [https://mitanportfolio.vercel.app](https://mitanportfolio.vercel.app)
+- **GitHub**: [https://github.com/Mitan11](https://github.com/Mitan11)
+- **LinkedIn**: [https://linkedin.com/in/mitan-tank-986076247](https://linkedin.com/in/mitan-tank-986076247)
+
+You can reach out to Mitan through the contact form on his portfolio website or connect via the social channels linked above.
+
+## Website Information
+This portfolio is built with Next.js 14 (App Router) and Tailwind CSS, featuring seamless animations via Framer Motion and a robust backend integrated with MongoDB.
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
